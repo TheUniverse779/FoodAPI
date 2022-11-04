@@ -1,0 +1,82 @@
+{
+  "data": [
+    {
+      "title": "Món chính",
+      "list": [
+        {
+          "id": 6845,
+          "category_id": "83",
+          "uuid": "620e08e7a3be2",
+          "title": "Hoa Thi\u00ean l\u00fd x\u00e0o th\u1ecbt b\u00f2",
+          "thumb": "https:\/\/cdn.sachnauan.net\/monngonmoingay\/v1\/hoa-thien-ly-300x200.jpg"
+        },
+        {
+          "id": 6845,
+          "category_id": "83",
+          "uuid": "620e08e7a3be2",
+          "title": "Hoa Thi\u00ean l\u00fd x\u00e0o th\u1ecbt b\u00f2",
+          "thumb": "https:\/\/cdn.sachnauan.net\/monngonmoingay\/v1\/hoa-thien-ly-300x200.jpg"
+        },
+        {
+          "id": 6845,
+          "category_id": "83",
+          "uuid": "620e08e7a3be2",
+          "title": "Hoa Thi\u00ean l\u00fd x\u00e0o th\u1ecbt b\u00f2",
+          "thumb": "https:\/\/cdn.sachnauan.net\/monngonmoingay\/v1\/hoa-thien-ly-300x200.jpg"
+        }
+      ]
+    },
+    {
+      "title": "Món chính 2",
+      "list": [
+        {
+          "id": 6845,
+          "category_id": "83",
+          "uuid": "620e08e7a3be2",
+          "title": "Hoa Thi\u00ean l\u00fd x\u00e0o th\u1ecbt b\u00f2",
+          "thumb": "https:\/\/cdn.sachnauan.net\/monngonmoingay\/v1\/hoa-thien-ly-300x200.jpg"
+        },
+        {
+          "id": 6845,
+          "category_id": "83",
+          "uuid": "620e08e7a3be2",
+          "title": "Hoa Thi\u00ean l\u00fd x\u00e0o th\u1ecbt b\u00f2",
+          "thumb": "https:\/\/cdn.sachnauan.net\/monngonmoingay\/v1\/hoa-thien-ly-300x200.jpg"
+        },
+        {
+          "id": 6845,
+          "category_id": "83",
+          "uuid": "620e08e7a3be2",
+          "title": "Hoa Thi\u00ean l\u00fd x\u00e0o th\u1ecbt b\u00f2",
+          "thumb": "https:\/\/cdn.sachnauan.net\/monngonmoingay\/v1\/hoa-thien-ly-300x200.jpg"
+        }
+      ]
+    },
+    {
+      "title": "Món chính 3",
+      "list": [
+        {
+          "id": 6845,
+          "category_id": "83",
+          "uuid": "620e08e7a3be2",
+          "title": "Hoa Thi\u00ean l\u00fd x\u00e0o th\u1ecbt b\u00f2",
+          "thumb": "https:\/\/cdn.sachnauan.net\/monngonmoingay\/v1\/hoa-thien-ly-300x200.jpg"
+        },
+        {
+          "id": 6845,
+          "category_id": "83",
+          "uuid": "620e08e7a3be2",
+          "title": "Hoa Thi\u00ean l\u00fd x\u00e0o th\u1ecbt b\u00f2",
+          "thumb": "https:\/\/cdn.sachnauan.net\/monngonmoingay\/v1\/hoa-thien-ly-300x200.jpg"
+        },
+        {
+          "id": 6845,
+          "category_id": "83",
+          "uuid": "620e08e7a3be2",
+          "title": "Hoa Thi\u00ean l\u00fd x\u00e0o th\u1ecbt b\u00f2",
+          "thumb": "https:\/\/cdn.sachnauan.net\/monngonmoingay\/v1\/hoa-thien-ly-300x200.jpg"
+        }
+      ]
+    }
+  ]
+}
